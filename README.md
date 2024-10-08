@@ -5,8 +5,8 @@ O projeto foi desenvolvido utilizando HTML e CSS.
 
 ## 💻 Tecnologias Utilizadas
 
-- **HTML5:** 🏗️ Estruturação do conteúdo do formulário.
-- **CSS:** 🎨 Estilização da interface do usuário.
+- **HTML:**  Estruturação do conteúdo do formulário.
+- **CSS:** Estilização da interface do usuário. 🎨
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/fernandatozzihonorio/)
